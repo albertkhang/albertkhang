@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @albertkhang
-- 👀 I’m interested in coding, sleeping, playing piano, running, reading, listening to music, play games
-- 🌱 I’m currently learning android
-- 📫 How to reach me by email
+- 👋 Hi, I’m Albert Khang!
+- 👀 I’m interested in coding, sleeping, playing piano, running, reading, listening to music, play games,...
+- 🌱 I’m currently learning android, project architecture, clean code,...
 
 <!---
 albertkhang/albertkhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
